@@ -20,6 +20,19 @@ output :
 
 ![image](https://github.com/raghav20232023/stringBuilder/assets/153320363/50347629-2ab4-4c79-971c-7e5920ea775e)
 
+**2. reverseAStringAlternate :**
+
+Input a string from the user and reverse it by traversing it from one side only.
+
+source code : 
+
+![image](https://github.com/raghav20232023/stringBuilder/assets/153320363/1e54121d-96ef-40aa-96f5-b5b09cee6bb8)
+
+output : 
+
+![image](https://github.com/raghav20232023/stringBuilder/assets/153320363/11105e9b-a956-4a6f-8839-b184f164f076)
+
+
 
 
 
