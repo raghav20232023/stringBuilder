@@ -32,6 +32,30 @@ output :
 
 ![image](https://github.com/raghav20232023/stringBuilder/assets/153320363/11105e9b-a956-4a6f-8839-b184f164f076)
 
+**3. stringBuilder1 :**
+
+Basic operations and methods of class StringBuilder. We use class StringBuilder in place of strings because StringBuiler is faster from a memory perspective. StringBuilder has all the existing methods that the strings class uses + additional functionality in the form of additional methods.
+
+source code : 
+
+![image](https://github.com/raghav20232023/stringBuilder/assets/153320363/c5a7a201-70c8-4885-8d1b-07efb02f218b)
+![image](https://github.com/raghav20232023/stringBuilder/assets/153320363/204d5bba-c98e-4f79-869f-2bd4b5eb39f9)
+
+output :
+
+![image](https://github.com/raghav20232023/stringBuilder/assets/153320363/93088c10-89ce-457f-81e9-ea257036aa29)
+
+end
+
+
+
+
+
+
+
+
+
+
 
 
 
